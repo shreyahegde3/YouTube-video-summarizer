@@ -95,9 +95,6 @@ When answering queries:
 5. Click "Get Answer"
 6. Review both the answer and sources used
 
-## License
-
-MIT
 
 ## Acknowledgments
 
